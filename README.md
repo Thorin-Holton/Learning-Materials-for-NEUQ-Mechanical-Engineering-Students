@@ -1,0 +1,2 @@
+# Learning-Materials-for-NEUQ-Mechanical-Engineering-Students
+This is a repository created by a 2023 NEUQ mechanical engineering student named Weisheng Ying, with some materials summarized by Yin and his seniors. Here, you can get them for free and add your materials after obtaining the creator's permission (DM me). I would be honored if they are of great help to you, or if you contribute to this repository.
